@@ -1,30 +1,49 @@
-# Robopick app design
+# 🤖 RoboPick: AI-Powered Dynamic Vision Assistant  
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+RoboPick is an AI-powered vision assistant that helps individuals with **Color Vision Deficiency (CVD)** confidently identify and select fresh produce.  
+It transforms a standard device camera into an **intelligent co-pilot** by applying **scientific color correction, deep contextual analysis, and real-time guidance**.  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sanjib-baradas-projects/v0-robo-pick)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/Rt3xY5ZPkYe)
+---
 
-## Overview
+## ✨ Features  
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+- 🎥 **Real-Time Video Analysis** – Live camera feed with AI-powered color correction.  
+- 🖼️ **Static Image Upload** – Upload photos for instant produce quality analysis.  
+- 🎯 **Personalized Onboarding** – Users can set their CVD condition or take a quick visual test.  
+- 📊 **CVD AI Analysis View** – Clear recommendation score, explanation, and visual bounding boxes.  
+- 🧠 **Proprietary Vision AI** – Detects ripeness, freshness, and defects with contextual analysis.  
+- 🎨 **Scientific Vision Correction** – Accurate color transformation (Daltonization via OpenCV).  
 
-## Deployment
+---
 
-Your project is live at:
+## 🛠️ Technologies Used  
 
-**[https://vercel.com/sanjib-baradas-projects/v0-robo-pick](https://vercel.com/sanjib-baradas-projects/v0-robo-pick)**
+- **Next.js (React + TypeScript)** – Scalable frontend framework with SSR.  
+- **Tailwind CSS** – Modern, responsive UI design.  
+- **Python + OpenCV** – Backend image processing and vision correction.  
+- **Gunicorn** – WSGI server for Python backend.  
+- **Supabase** – Authentication, database, and real-time storage.  
 
-## Build your app
+---
 
-Continue building your app on:
+## 🚀 Getting Started  
 
-**[https://v0.app/chat/projects/Rt3xY5ZPkYe](https://v0.app/chat/projects/Rt3xY5ZPkYe)**
+### Prerequisites  
+- Node.js (v18+)  
+- Python (3.9+)  
+- Supabase account & API keys  
 
-## How It Works
+### Installation  
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+```bash
+# Clone the repo
+git clone https://github.com/your-username/robopick.git
+cd robopick
+
+# Install frontend dependencies
+cd frontend
+npm install
+
+# Install backend dependencies
+cd ../backend
+pip install -r requirements.txt
