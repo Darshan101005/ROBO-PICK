@@ -45,7 +45,7 @@ export const mockUser: User = {
   name: "John Doe",
   email: "john.doe@email.com",
   colorBlindType: "deuteranomaly",
-  joinDate: "2024-01-15",
+  joinDate: "2025-01-15",
   preferences: {
     notifications: true,
     cameraSound: false,

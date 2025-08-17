@@ -97,7 +97,7 @@ export default function PrivacyPage() {
               <Calendar className="w-5 h-5 text-gray-400" />
               <div>
                 <span className="font-medium text-gray-900">Last Updated:</span>
-                <span className="text-gray-600 ml-2">January 15, 2024</span>
+                <span className="text-gray-600 ml-2">January 15, 2025</span>
               </div>
             </div>
           </CardContent>

@@ -72,7 +72,7 @@ export default function AboutPage() {
             <p className="text-gray-600 mb-4">Smart Vision for Fresh Choices</p>
             <div className="flex items-center justify-center space-x-4">
               <Badge variant="secondary">Version 1.0.0</Badge>
-              <Badge variant="outline">Build 2024.1</Badge>
+              <Badge variant="outline">Build 2025.1</Badge>
             </div>
           </CardContent>
         </Card>
@@ -175,7 +175,7 @@ export default function AboutPage() {
           <CardContent>
             <div className="space-y-3">
               <div className="p-3 bg-yellow-50 rounded-lg border border-yellow-200">
-                <h4 className="font-medium text-yellow-800">🏆 Best Accessibility App 2024</h4>
+                <h4 className="font-medium text-yellow-800">🏆 Best Accessibility App 2025</h4>
                 <p className="text-sm text-yellow-700">Tech for Good Awards</p>
               </div>
               <div className="p-3 bg-blue-50 rounded-lg border border-blue-200">
@@ -219,7 +219,7 @@ export default function AboutPage() {
         {/* Legal */}
         <Card>
           <CardContent className="p-4 text-center text-sm text-gray-500">
-            <p className="mb-2">© 2024 RoboPick Technologies Inc.</p>
+            <p className="mb-2">© 2025 RoboPick Technologies Inc.</p>
             <div className="flex justify-center space-x-4">
               <Link href="/settings/privacy" className="hover:text-primary">
                 Privacy Policy
