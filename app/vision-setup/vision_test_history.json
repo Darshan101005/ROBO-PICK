@@ -1,0 +1,121 @@
+[
+  {
+    "timestamp": "2025-08-17T12:33:48.087Z",
+    "diagnosis": {
+      "title": "Inconclusive / Mild Deficiency",
+      "description": "Your total error score of 14.0 was above the normal threshold, but your mistakes did not consistently match a single pattern. This could indicate a very mild or non-specific color vision deficiency.",
+      "note": ""
+    },
+    "summary": {
+      "correctCount": 11,
+      "totalQuestions": 15
+    },
+    "answerHistory": [
+      {
+        "questionId": 1,
+        "questionText": "Which black and white image below matches the pattern in the colored image?",
+        "userAnswer": "/options/plate1correct.png",
+        "correctAnswer": "/options/plate1correct.png",
+        "isCorrect": true
+      },
+      {
+        "questionId": 2,
+        "questionText": "What are the colors of the two dots?",
+        "userAnswer": "Top: Red, Bottom: Green",
+        "correctAnswer": "Top: Red, Bottom: Green",
+        "isCorrect": true
+      },
+      {
+        "questionId": 3,
+        "questionText": "Which black and white image below matches the pattern in the colored image?",
+        "userAnswer": "/options/plate3correct.png",
+        "correctAnswer": "/options/plate3correct.png",
+        "isCorrect": true
+      },
+      {
+        "questionId": 4,
+        "questionText": "What color lines can you trace?",
+        "userAnswer": "I see two gray lines",
+        "correctAnswer": "A pink line and a violet line",
+        "isCorrect": false
+      },
+      {
+        "questionId": 5,
+        "questionText": "What number do you see?",
+        "userAnswer": "12",
+        "correctAnswer": "12",
+        "isCorrect": true
+      },
+      {
+        "questionId": 6,
+        "questionText": "What number do you see?",
+        "userAnswer": "455",
+        "correctAnswer": "59",
+        "isCorrect": false
+      },
+      {
+        "questionId": 7,
+        "questionText": "What number do you see?",
+        "userAnswer": "74",
+        "correctAnswer": "74",
+        "isCorrect": true
+      },
+      {
+        "questionId": 8,
+        "questionText": "What number do you see?",
+        "userAnswer": "23",
+        "correctAnswer": "23",
+        "isCorrect": true
+      },
+      {
+        "questionId": 9,
+        "questionText": "What number do you see?",
+        "userAnswer": "3",
+        "correctAnswer": "3",
+        "isCorrect": true
+      },
+      {
+        "questionId": 10,
+        "questionText": "What number do you see?",
+        "userAnswer": "29",
+        "correctAnswer": "29",
+        "isCorrect": true
+      },
+      {
+        "questionId": 11,
+        "questionText": "What shapes do you see?",
+        "userAnswer": "A circle at the top and a triangle at the bottom",
+        "correctAnswer": "A circle at the top and a triangle at the bottom",
+        "isCorrect": true
+      },
+      {
+        "questionId": 12,
+        "questionText": "What number do you see?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": true
+      },
+      {
+        "questionId": 13,
+        "questionText": "What number do you see?",
+        "userAnswer": "5",
+        "correctAnswer": "45",
+        "isCorrect": false
+      },
+      {
+        "questionId": 14,
+        "questionText": "What number do you see?",
+        "userAnswer": "16",
+        "correctAnswer": "16",
+        "isCorrect": true
+      },
+      {
+        "questionId": 15,
+        "questionText": "What number do you see?",
+        "userAnswer": "I can't see a number",
+        "correctAnswer": "73",
+        "isCorrect": false
+      }
+    ]
+  }
+]
